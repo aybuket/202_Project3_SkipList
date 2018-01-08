@@ -1,1 +1,3 @@
-# 202_Project3_SkipList
+# SkipList Implementation
+
+Spring 2016 - Comp202 (Algorithms & Data Structures)
